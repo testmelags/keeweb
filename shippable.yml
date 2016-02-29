@@ -1,0 +1,10 @@
+language: node_js
+
+# Version number
+node_js:
+  - 0.10
+
+
+build:
+  ci:
+    - node --version
